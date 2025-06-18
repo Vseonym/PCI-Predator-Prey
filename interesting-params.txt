@@ -1,0 +1,9 @@
+    #desired initial populations
+    initial_prey: int = 100
+    initial_predators: int = 50
+
+    #parameters of the Lotka-Volterra equations
+    alpha = 0.0055    # slower prey reproduction
+    beta = 0.015     # more effective predators
+    delta = 0.8     # predator reproduction chance
+    gamma = 0.005    # predator death chance
