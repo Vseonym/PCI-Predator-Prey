@@ -7,3 +7,9 @@
     beta = 0.015     # more effective predators
     delta = 0.8     # predator reproduction chance
     gamma = 0.005    # predator death chance
+
+
+    alpha = 0.009    # slower prey reproduction
+    beta = 0.04     # more effective predators
+    delta = 1.0     # predator reproduction chance
+    gamma = 0.003    # predator death chance
